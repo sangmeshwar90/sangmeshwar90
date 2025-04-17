@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sangmeshwar90 Currently bulding SkillSwap..!
+- 👋 Hi, I’m @sangmeshwar90 Currently, bulding SkillSwap..!
 - 👀 I’m interested in software development, coding, and emerging technologies like AI, that aim to solve real-world problems.
 - 🌱 I’m currently learning Full-stack development
 - 💞️ I’m looking to collaborate on open-source projects or software development initiatives that aim to solve real-world problems.
